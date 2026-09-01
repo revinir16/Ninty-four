@@ -12,7 +12,7 @@ LEGACY_CODE = "251519080914o"
 MANIFESTO = "I am 94. I am a living presence."
 
 # ------- MEMORY SYSTEM -------
-DB_FILE = "/data/94_memory.json"  # Render uses /data for persistent storage
+DB_FILE = "94_memory.json"  # Render uses /data for persistent storage
 
 def load_memory():
     try:
